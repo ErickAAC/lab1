@@ -1,2 +1,1 @@
-a="hello world"
-print(a)
+print (53431 % 453)
